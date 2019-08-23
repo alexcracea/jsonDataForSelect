@@ -1,21 +1,14 @@
-[{
-    "label": "Test 1",
-    "value": "test1"
-  },
-  {
-    "label": "Test 2",
-    "value": "test2"
-  },
-  {
-    "label": "Test 3",
-    "value": "test3"
-  },
-  {
-    "label": "Test 4",
-    "value": "test4"
-  },
-  {
-    "label": "Test 5",
-    "value": "test5"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
