@@ -1,20 +1,24 @@
 {
   "options": [
     {
-      "label": "Test 1",
-      "value": "test1"
+      "label": "Blue",
+      "value": "blue"
     },
     {
-      "label": "Test 2",
-      "value": "test2"
+      "label": "Red",
+      "value": "red"
     },
     {
-      "label": "Test 3",
-      "value": "test3"
+      "label": "Gray",
+      "value": "gray"
     },
     {
-      "label": "Test 4",
-      "value": "test4"
+      "label": "Black",
+      "value": "black"
+    },
+    {
+      "label": "Violet",
+      "value": "violet"
     }
   ]
 }
